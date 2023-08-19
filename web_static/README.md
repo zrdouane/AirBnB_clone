@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Zrdouane** - [Kimberly](https://github.com/zrdouane)
+* **Zrdouane** - [zrdouane](https://github.com/zrdouane)
